@@ -9,7 +9,9 @@ Antes de rodar a API é necessario configurar o arquivo no diretorio site-packag
 ````
 Para rodar a api deve se digitar:
 ````
+````
 python manage.py runserver
+````
 ````
 # **Sobre as rotas**
 
