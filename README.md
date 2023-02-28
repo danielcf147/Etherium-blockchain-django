@@ -11,7 +11,6 @@ Para rodar a api deve se digitar:
 ````
 python manage.py runserver
 ````
-<br> 
 # **Sobre as rotas**
 
 ````
