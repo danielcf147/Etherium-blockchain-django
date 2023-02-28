@@ -14,7 +14,7 @@ Para rodar a api deve se digitar:
 python manage.py runserver
 ````
 
-A blockchain privada usada foi Ganache Etherium
+A blockchain privada usada foi Ganache Etherium - https://trufflesuite.com/ganache/
 
 
 # **Sobre as rotas**
