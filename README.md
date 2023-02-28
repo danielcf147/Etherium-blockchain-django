@@ -13,7 +13,10 @@ Para rodar a api deve se digitar:
 ````
 python manage.py runserver
 ````
-
+````
+A blockchain privada usada foi Ganache Etherium
+````
+````
 # **Sobre as rotas**
 
 
