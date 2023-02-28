@@ -7,12 +7,13 @@ pip install -r requirements.txt
 ````
 Antes de rodar a API é necessario configurar o arquivo no diretorio site-packages/parsimonious/expressions.py e mudar a linha que diz from inspect import getargspec para from inspect import getfullargspec
 ````
-Para rodar a api deve se digitar:
 ````
+Para rodar a api deve se digitar:
+
 ````
 python manage.py runserver
 ````
-````
+
 # **Sobre as rotas**
 
 ````
